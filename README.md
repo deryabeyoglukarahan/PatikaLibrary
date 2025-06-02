@@ -1,6 +1,6 @@
 # 📚 Patika Kütüphane Kitap Kayıt Uygulaması
 
-Bu basit C# uygulaması, bir kütüphaneye yeni kitap eklemek ve kitap bilgilerini ekranda göstermek amacıyla geliştirilmiştir. 
+Bu basit C# uygulaması Patika+ Back-End Web Developer Programı kapsamında, bir kütüphaneye yeni kitap eklemek ve kitap bilgilerini ekranda göstermek amacıyla geliştirilmiştir. 
 
 ---
 
